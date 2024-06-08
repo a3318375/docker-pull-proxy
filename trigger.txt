@@ -1,1 +1,1 @@
-harness/gitness:latest ccr.ccs.tencentyun.com/inyaa/gitness:latest
+harness/gitness:latest ccr.ccs.tencentyun.com/inyaa/gitness:latest 
