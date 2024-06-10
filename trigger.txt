@@ -1,1 +1,1 @@
-drillster/drone-volume-cache:latest ccr.ccs.tencentyun.com/inyaa/drone:cache
+gradle:jdk21 ccr.ccs.tencentyun.com/inyaa/drone:gradle-jdk21
