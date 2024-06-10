@@ -1,1 +1,1 @@
-drone/drone-runner-docker:1 ccr.ccs.tencentyun.com/inyaa/drone:docker
+drone/git:latest ccr.ccs.tencentyun.com/inyaa/drone:git
