@@ -1,1 +1,1 @@
-jenkins/jenkins:2.452.1-jdk17 ccr.ccs.tencentyun.com/inyaa/jenkins:2.452.1-jdk17
+jenkins/jenkins:2.461-jdk17 ccr.ccs.tencentyun.com/inyaa/jenkins:2.461-jdk17
