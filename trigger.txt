@@ -1,1 +1,1 @@
-gradle:jdk21 ccr.ccs.tencentyun.com/inyaa/drone:gradle-jdk21
+plugins/docker:latest ccr.ccs.tencentyun.com/inyaa/drone:plugins-docker
