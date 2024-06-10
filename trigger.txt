@@ -1,1 +1,1 @@
-drone/drone:2 ccr.ccs.tencentyun.com/inyaa/drone:2
+drone/drone-runner-ssh:latest ccr.ccs.tencentyun.com/inyaa/drone:ssh
