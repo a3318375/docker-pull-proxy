@@ -1,1 +1,1 @@
-drone/git:latest ccr.ccs.tencentyun.com/inyaa/drone:git
+drillster/drone-volume-cache:latest ccr.ccs.tencentyun.com/inyaa/drone:cache
