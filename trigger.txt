@@ -1,1 +1,1 @@
-jenkins/jenkins:2.461-jdk17 ccr.ccs.tencentyun.com/inyaa/jenkins:2.461-jdk17
+drone/drone:2 ccr.ccs.tencentyun.com/inyaa/drone:2
