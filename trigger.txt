@@ -1,1 +1,1 @@
-plugin/docker:20.17.4 ccr.ccs.tencentyun.com/inyaa/drone:plugins-docker-20
+plugins/docker:20.17.4 ccr.ccs.tencentyun.com/inyaa/drone:plugins-docker-20
