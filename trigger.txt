@@ -1,1 +1,1 @@
-jetbrains/teamcity-server ccr.ccs.tencentyun.com/inyaa/teamcity-server
+openjdk:21-jdk-slim ccr.ccs.tencentyun.com/inyaa/openjdk:21-jdk-slim
