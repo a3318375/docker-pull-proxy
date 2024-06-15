@@ -1,1 +1,1 @@
-hashicorp/consul:latest ccr.ccs.tencentyun.com/inyaa/consul:latest
+redis:latest ccr.ccs.tencentyun.com/inyaa/redis:latest
