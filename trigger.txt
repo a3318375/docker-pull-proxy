@@ -1,1 +1,1 @@
-openjdk:21-jdk-slim ccr.ccs.tencentyun.com/inyaa/openjdk:21-jdk-slim
+hashicorp/consul:latest ccr.ccs.tencentyun.com/inyaa/consul:latest
